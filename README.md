@@ -4,4 +4,5 @@ To run these programs, you'll need to install Java 8 or higher, then run the fol
 ```
 $ cd [PROJECT]
 $ javac Main.java
-$ java Main```
+$ java Main
+```
